@@ -11,7 +11,7 @@ You are free to use it as you wish, and I'd be happy to hear your feedbacks at t
 
 ## Preview
 
-<iframe src="https://studio.youtube.com/video/Gwh0HKWGdIw/edit"></iframe>
+[Watch the feature overview on youtube](https://studio.youtube.com/video/Gwh0HKWGdIw/edit)
 
 ## Features [1.0.1]
 
